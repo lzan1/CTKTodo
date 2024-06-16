@@ -133,7 +133,7 @@ body{
     display:none;
     position:relative;
     background-color: var(--);
-    letter-spacing: 0.09em;
+    letter-spacing: 0.08em;
 }
 
 .todo::before{
